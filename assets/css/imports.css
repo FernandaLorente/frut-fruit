@@ -1,11 +1,19 @@
+/* HEADER */
 @import url(./header/cabecalho.css);
 @import url(./header/menu__item.css);
 @import url(./header/menu__link.css);
 @import url(./header/menu__lista.css);
+/* BANNER */
 @import url(./banner/banner.css);
 @import url(./banner/banner__imagem.css);
 @import url(./banner/banner__titulo.css);
+/* SOBRE */
+@import url(./sobre/sobre.css);
+@import url(./sobre/sobre__descricao.css);
+@import url(./sobre/sobre__titulo.css);
 
+
+@import url();
 
 
 
