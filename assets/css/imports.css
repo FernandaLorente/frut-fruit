@@ -11,6 +11,14 @@
 @import url(./sobre/sobre.css);
 @import url(./sobre/sobre__descricao.css);
 @import url(./sobre/sobre__titulo.css);
+/* RECEITAS */
+@import url(./receitas/receitas.css);
+@import url(./receitas/receita__botao.css);
+@import url(./receitas/receita__conteudo.css);
+@import url(./receitas/receita__descricao.css);
+@import url(./receitas/receita__imagem.css);
+@import url(./receitas/receita__titulo.css);
+@import url(./receitas/receita.css);
 
 
 @import url();
