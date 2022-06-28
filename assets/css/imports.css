@@ -3,14 +3,17 @@
 @import url(./header/menu__item.css);
 @import url(./header/menu__link.css);
 @import url(./header/menu__lista.css);
+
 /* BANNER */
 @import url(./banner/banner.css);
 @import url(./banner/banner__imagem.css);
 @import url(./banner/banner__titulo.css);
+
 /* SOBRE */
 @import url(./sobre/sobre.css);
 @import url(./sobre/sobre__descricao.css);
 @import url(./sobre/sobre__titulo.css);
+
 /* RECEITAS */
 @import url(./receitas/receitas.css);
 @import url(./receitas/receita__botao.css);
@@ -19,6 +22,18 @@
 @import url(./receitas/receita__imagem.css);
 @import url(./receitas/receita__titulo.css);
 @import url(./receitas/receita.css);
+
+/* QUEM SOMOS */
+@import url(./quem-somos/quem-somos.css);
+@import url(./quem-somos/quem-somos__descricao.css);
+@import url(./quem-somos/quem-somos__titulo.css);
+
+/* PESSOAS */
+@import url(./pessoas/pessoa.css);
+@import url(./pessoas/pessoa__funcao.css);
+@import url(./pessoas/pessoa__imagem.css);
+@import url(./pessoas/pessoa__nome.css);
+@import url(./pessoas/pessoas.css);
 
 
 @import url();
