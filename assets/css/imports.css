@@ -22,6 +22,7 @@
 @import url(./receitas/receita__imagem.css);
 @import url(./receitas/receita__titulo.css);
 @import url(./receitas/receita.css);
+@import url(./receitas/mais-receitas.css);
 
 /* QUEM SOMOS */
 @import url(./quem-somos/quem-somos.css);
@@ -35,7 +36,13 @@
 @import url(./pessoas/pessoa__nome.css);
 @import url(./pessoas/pessoas.css);
 
-
+/* FOOTER */
+@import url(/assets/css/footer/rodape.css);
+@import url(/assets/css/contato-footer/contato.css);
+@import url(/assets/css/contato-footer/contato__lista.css);
+@import url(/assets/css/contato-footer/contato__titulo.css);
+@import url(/assets/css/footer/footer__copyright.css);
+@import url(/assets/css/footer/redes-sociais.css);
 @import url();
 
 

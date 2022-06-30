@@ -1,0 +1,6 @@
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    background: #bfbfbf;
+    padding: 1rem;
+}

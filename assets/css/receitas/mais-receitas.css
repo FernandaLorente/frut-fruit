@@ -1,0 +1,14 @@
+.mais-receitas {
+    display: flex;
+    font-family: Pacifico, cursive;
+    color: #8d0606;
+    font-size: 2rem ;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    cursor: pointer;
+    align-items: center;
+}
+
+.mais-receitas:hover {
+    text-decoration: underline;
+}

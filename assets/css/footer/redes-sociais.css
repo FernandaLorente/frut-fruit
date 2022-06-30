@@ -1,0 +1,12 @@
+.redes-sociais {
+    display: flex;
+    justify-content: space-around;
+    font-size: 2rem;
+    width: 15%;
+    align-items: center;    
+}
+
+.redes-sociais__lista:hover {
+    cursor: pointer;
+    color: #8d0606;
+}
